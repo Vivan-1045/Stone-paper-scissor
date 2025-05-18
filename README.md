@@ -1,3 +1,44 @@
-# Stone-paper-scissor
+# 🪨 ✂️ 📄 Rock Paper Scissors Game
 
-A classic Stone-Paper-Scissor game built using HTML, CSS, and JavaScript. Challenge the computer and test your luck and strategy!
+Play the classic game against the computer with enhanced features and a modern interface.
+
+🔗 [Play the game live](https://stone-paper-scissor1-nine.vercel.app/)
+
+---
+
+## 🎮 Features
+
+- **Interactive Gameplay**: Choose between Rock, Paper, or Scissors and compete against the computer.
+- **Score Tracking**: Keep track of your wins and the computer's wins in real-time.
+- **Sound Effects**: Enjoy immersive audio cues for win, lose, and draw outcomes.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **User-Friendly Interface**: Clean and intuitive design for an engaging experience.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure and layout of the game.
+- **CSS3** – Styling and animations.
+- **JavaScript** – Game logic and interactivity.
+- **Audio** – Sound effects for game outcomes.
+
+---
+
+## 📸 Screenshots
+
+> *(Add a screenshot of your game interface here if available)*  
+> Example:  
+> ![Game Screenshot](screenshot.png)
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Vivan-1045/Stone-paper-scissor.git
+cd Stone-paper-scissor/Stone/public
+open index.html
+
