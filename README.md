@@ -27,9 +27,9 @@ Play the classic game against the computer with enhanced features and a modern i
 
 ## 📸 Screenshots
 
-> *(Add a screenshot of your game interface here if available)*  
 > Example:  
-> ![Game Screenshot](screenshot.png)
+> ![Game Screenshot](screenshots/Screenshot(14).png)
+> ![Game Screenshot](screenshots/Screenshot(16).png)
 
 ---
 
