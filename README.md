@@ -28,7 +28,7 @@ Play the classic game against the computer with enhanced features and a modern i
 ## 📸 Screenshots
 
 > Example:  
-> ![Game Screenshot](screenshots/screenshot-14.png)
+> ![Game Screenshot](https://github.com/Vivan-1045/Stone-paper-scissor/blob/main/Stone/screenshots/screenshot-14.png)
 > ![Game Screenshot](screenshots/screenshot-16.png)
 
 ---
