@@ -28,8 +28,8 @@ Play the classic game against the computer with enhanced features and a modern i
 ## 📸 Screenshots
 
 > Example:  
-> ![Game Screenshot](screenshots/Screenshot(14).png)
-> ![Game Screenshot](screenshots/Screenshot(16).png)
+> ![Game Screenshot](screenshots/screenshot-14.png)
+> ![Game Screenshot](screenshots/screenshot-16.png)
 
 ---
 
