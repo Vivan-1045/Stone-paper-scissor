@@ -22,7 +22,7 @@ const shoWinner = (youWin, compChoice, userChoice) => {
         compScore++;
         cScore.innerText = compScore;
         msg1.innerText = `You lose! ${compChoice} beats ${userChoice}...😟`;
-        msg1.style.backgroundColor = "red";
+        msg1.style.backgroundColor = "#ffb6b6";
     }
 };
 
