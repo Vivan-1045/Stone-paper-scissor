@@ -17,7 +17,7 @@ const shoWinner = (youWin, compChoice, userChoice) => {
         userScore++;
         uScore.innerText = userScore;
         msg1.innerText = `You win! Your ${userChoice} beats ${compChoice}...🏆`;
-        msg1.style.backgroundColor = "green";
+        msg1.style.backgroundColor = "#90ee90";
     } else {
         compScore++;
         cScore.innerText = compScore;
@@ -28,7 +28,7 @@ const shoWinner = (youWin, compChoice, userChoice) => {
 
 const drawgame = () => {
     msg1.innerText = `Game draw! Try again...📍`;
-    msg1.style.backgroundColor = "purple";
+    msg1.style.backgroundColor = "#e0b3ff";
 };
 
 const gameplay = (userChoice) => {
